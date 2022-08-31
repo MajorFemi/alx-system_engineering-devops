@@ -10,4 +10,8 @@ The fifth script display current directory contents, including hidden files (sta
 
 The sixth script display current directory contents in long format, wiht user and group IDs displayed numerically and hidden files.
 
-The seventh script creates a directory. 
+The seventh script creates a directory.
+
+The eighth script moves the file from one directory to another.
+
+ 
