@@ -29,3 +29,7 @@ The fourteenth script creates a symbolic link
 The fifteen script copy special files e.g html file
 
 The sixteen script moves all files that begins with upper case letter
+
+The seventeen script deletes all files in the current working directorythat end with ~
+
+
