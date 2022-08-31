@@ -22,4 +22,8 @@ The eleventh script returns or change the working directory to the previous one
 
 The twelveth script lists all files in the current directory and the parent of the working directory and the specified directory in long format
 
-The thirteenth script prints the type of the file 
+The thirteenth script prints the type of the file
+
+The fourteenth script creates a symbolic link
+
+ 
