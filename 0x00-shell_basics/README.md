@@ -32,4 +32,6 @@ The sixteen script moves all files that begins with upper case letter
 
 The seventeen script deletes all files in the current working directorythat end with ~
 
+The eighteen script creates directories and sub-directories
+
 
