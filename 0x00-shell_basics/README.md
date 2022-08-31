@@ -35,3 +35,5 @@ The seventeen script deletes all files in the current working directorythat end 
 The eighteen script creates directories and sub-directories
 
 The ninteenth script list all files and directories of the current directory separated by comma
+
+The twentieth script creates a magic file that can be used with command file to detect school data files. The school data files always contain the string SCHOOL at offset 0
