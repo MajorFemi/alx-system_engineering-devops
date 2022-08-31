@@ -16,4 +16,6 @@ The eighth script moves the file from one directory to another.
 
 The ninth script deletes file from a specific directory
 
+The tenth script deletes the specified directory
+
  
