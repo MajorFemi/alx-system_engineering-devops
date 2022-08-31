@@ -5,3 +5,5 @@ The second script display the contents list of the current directory.
 The third script changes the working directory to the user's home directory.
 
 The fourth script display current directory in a long format.
+
+The fifth script display current directory contents, including hidden files (starting with .), using long format.
