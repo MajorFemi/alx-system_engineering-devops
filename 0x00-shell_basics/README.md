@@ -34,4 +34,4 @@ The seventeen script deletes all files in the current working directorythat end 
 
 The eighteen script creates directories and sub-directories
 
-
+The ninteenth script list all files and directories of the current directory separated by comma
