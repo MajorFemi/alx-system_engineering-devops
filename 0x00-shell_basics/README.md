@@ -14,4 +14,6 @@ The seventh script creates a directory.
 
 The eighth script moves the file from one directory to another.
 
+The ninth script deletes file from a specific directory
+
  
