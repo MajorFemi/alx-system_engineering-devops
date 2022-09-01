@@ -24,4 +24,4 @@ The eleventh script set the mode of the file hello the same as olleh's
 
 The twelveth script adds execute permision to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files are not changed.
 
-
+The thirteenth script creates a directory called mydir with permission 751
