@@ -28,4 +28,8 @@ The thirteenth script creates a directory called mydir with permission 751
 
 The fourteenth script changes the group owner to school for the file hello
 
-The fifteen script changes the owner to vincent and the group owner to staff for all the files and directories in the working directory 
+The fifteen script changes the owner to vincent and the group owner to staff for all the files and directories in the working directory.
+
+The sixteenth script changes the oner and the group owner of _hello to vincent and staff.
+
+ 
