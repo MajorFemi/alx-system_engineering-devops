@@ -10,4 +10,6 @@ The fourth script changes the owner of the file hello to user betty
 
 The fifth script creates an empty file
 
+The sixth script adds execute permission to the owner of the file hello
+
 
