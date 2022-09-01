@@ -12,4 +12,4 @@ The fifth script creates an empty file
 
 The sixth script adds execute permission to the owner of the file hello
 
-
+The seventh script adds execute permission to the owner, group owner and the read permission to the other users
