@@ -17,3 +17,7 @@ The seventh script adds execute permission to the owner, group owner and the rea
 The eight script adds execution permission to the owner, the group owner and the other users, to the file hello
 
 The ninth script set permission to only other users
+
+The tenth script set the mode of the file to a specific level of permission
+
+
