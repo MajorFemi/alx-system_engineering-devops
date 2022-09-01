@@ -32,4 +32,6 @@ The fifteen script changes the owner to vincent and the group owner to staff for
 
 The sixteenth script changes the oner and the group owner of _hello to vincent and staff.
 
+The seventeenth script chnages the onwer of the file hello to betty only if it is owned by the user guillaume.
+
  
