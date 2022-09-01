@@ -21,3 +21,7 @@ The ninth script set permission to only other users
 The tenth script set the mode of the file to a specific level of permission
 
 The eleventh script set the mode of the file hello the same as olleh's
+
+The twelveth script adds execute permision to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files are not changed.
+
+
