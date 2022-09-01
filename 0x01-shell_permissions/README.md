@@ -1,3 +1,1 @@
-The first script switches the current user to the user betty
-
-
+The first script switches the user to another user
