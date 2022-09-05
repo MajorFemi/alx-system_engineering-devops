@@ -20,4 +20,6 @@ The ninth scipt writes into the file, the result of the specified command.
 
 The tenth script duplicates the last line of the file
 
+The eleventh script deletes all the regular files (not the directories) with .js extension that are in the current directory and all its subfolders.
+
   
