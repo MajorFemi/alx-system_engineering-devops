@@ -22,4 +22,4 @@ The tenth script duplicates the last line of the file
 
 The eleventh script deletes all the regular files (not the directories) with .js extension that are in the current directory and all its subfolders.
 
-  
+The twelveth script counts the number of directories and sub-directories in the current diretory  
