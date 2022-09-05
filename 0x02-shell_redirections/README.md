@@ -42,5 +42,7 @@ The ninteenth script display all the lines of a specific file starting with a le
 
 The twentieth script replace all characters A and C from input Z and e respectively.
 
+The twenty one script removes all letters c and C from input
+
 
   
