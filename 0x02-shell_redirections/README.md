@@ -14,4 +14,4 @@ The six script display the first 10 lines of etc/passwd
 
 The seventh script displays the third line of a file
 
-
+The eight script creates a file with the specific name to display or have in it a specificied sentence
