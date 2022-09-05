@@ -30,4 +30,6 @@ The fourteenth script takes a list of words as input and prints only word that a
 
 The fifteenth script display lines containing the specified pattern from a specific file.
 
+The sixteenth script display the nummber of lines contain the specified pattern in a file
+
   
