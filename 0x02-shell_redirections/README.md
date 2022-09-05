@@ -46,5 +46,7 @@ The twenty one script removes all letters c and C from input
 
 The twenty second script reverse its input
 
+The twenty third script displays all users and their home directories, sorted by users.
+
 
   
