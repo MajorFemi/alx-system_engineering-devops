@@ -34,4 +34,9 @@ The sixteenth script display the nummber of lines contain the specified pattern 
 
 The seventeeth script display lines containing the specified pattern and 3 lines after them in the specific file
 
+The eighteenth script display all the lines in the specific file but do not contain a specified word
+
+The eighteenth script display all the lines in the specific file but do not contain a specified word
+
+
   
