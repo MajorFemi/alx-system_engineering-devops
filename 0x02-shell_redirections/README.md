@@ -52,4 +52,6 @@ The twenty four script finds all empty files and directories in the current dire
 
 The twenty five script list all the files with a .gif extension in the current directory and all its sub-directories. Hidden files will be listed; Only regular files will be listed; The names of the fies will be displayed without their extensions; The files will be sorted by byte values, but case-insensitive; one file name per line; The listing will end with a new line.
 
+The twenty six script decodes acrostics that use the first letter of each line.
+
  
