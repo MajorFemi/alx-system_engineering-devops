@@ -16,4 +16,8 @@ The seventh script displays the third line of a file
 
 The eight script creates a file with the specific name to display or have in it a specificied sentence
 
-The ninth scipt writes into the file, the result of the specified command.  
+The ninth scipt writes into the file, the result of the specified command.
+
+The tenth script duplicates the last line of the file
+
+  
