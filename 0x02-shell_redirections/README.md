@@ -40,5 +40,7 @@ The eighteenth script display all the lines in the specific file but do not cont
 
 The ninteenth script display all the lines of a specific file starting with a lette
 
+The twentieth script replace all characters A and C from input Z and e respectively.
+
 
   
