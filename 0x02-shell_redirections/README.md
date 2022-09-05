@@ -28,4 +28,6 @@ The thirteenth script display the 10 newest files in the current directory; one 
 
 The fourteenth script takes a list of words as input and prints only word that appear exactly once; input format : one line, one word; output format: one line, one word; words should be sorted.
 
+The fifteenth script display lines containing the specified pattern from a specific file.
+
   
