@@ -22,4 +22,8 @@ The tenth script duplicates the last line of the file
 
 The eleventh script deletes all the regular files (not the directories) with .js extension that are in the current directory and all its subfolders.
 
-The twelveth script counts the number of directories and sub-directories in the current diretory  
+The twelveth script counts the number of directories and sub-directories in the current diretory
+
+The thirteenth script display the 10 newest files in the current directory; one per line; sorted from the newest to the oldest
+
+  
