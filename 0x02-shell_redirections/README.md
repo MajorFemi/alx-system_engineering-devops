@@ -11,3 +11,7 @@ The fourth script display contant of two files
 The fifth script display the last 10 lines of a file
 
 The six script display the first 10 lines of etc/passwd
+
+The seventh script displays the third line of a file
+
+
