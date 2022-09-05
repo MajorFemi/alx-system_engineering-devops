@@ -26,4 +26,6 @@ The twelveth script counts the number of directories and sub-directories in the 
 
 The thirteenth script display the 10 newest files in the current directory; one per line; sorted from the newest to the oldest
 
+The fourteenth script takes a list of words as input and prints only word that appear exactly once; input format : one line, one word; output format: one line, one word; words should be sorted.
+
   
