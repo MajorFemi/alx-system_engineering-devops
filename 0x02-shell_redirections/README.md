@@ -44,5 +44,7 @@ The twentieth script replace all characters A and C from input Z and e respectiv
 
 The twenty one script removes all letters c and C from input
 
+The twenty second script reverse its input
+
 
   
