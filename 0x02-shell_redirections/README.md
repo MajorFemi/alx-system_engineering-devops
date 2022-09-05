@@ -38,5 +38,7 @@ The eighteenth script display all the lines in the specific file but do not cont
 
 The eighteenth script display all the lines in the specific file but do not contain a specified word
 
+The ninteenth script display all the lines of a specific file starting with a lette
+
 
   
