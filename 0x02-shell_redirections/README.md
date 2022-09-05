@@ -48,5 +48,7 @@ The twenty second script reverse its input
 
 The twenty third script displays all users and their home directories, sorted by users.
 
+The twenty four script finds all empty files and directories in the current directory and all sub directories; only the names of the files and directories will be displayed; hidden files will be listed; one file name per line; the listing will end with a new line
+
 
   
