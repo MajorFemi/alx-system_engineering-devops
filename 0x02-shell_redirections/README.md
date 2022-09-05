@@ -32,4 +32,6 @@ The fifteenth script display lines containing the specified pattern from a speci
 
 The sixteenth script display the nummber of lines contain the specified pattern in a file
 
+The seventeeth script display lines containing the specified pattern and 3 lines after them in the specific file
+
   
