@@ -6,4 +6,6 @@ Script 1 prints hello current or active linux user
 
 Script 2 adds specified information to the path
 
+Script 3 counts the number of directories in the Path
+
 
