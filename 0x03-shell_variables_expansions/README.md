@@ -20,4 +20,6 @@ Script 8 prints the result of the addition of 128 with value stored in the envir
 
 Script 9 prints the result of POWER divided by DIVIDE, where POWER and DIVIDE are environment variables
 
+Script 10 display the result of BREATH to the power LOVE, where LOVE and POWER are environment variable
+
 
