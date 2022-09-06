@@ -14,4 +14,6 @@ Script 5 list all local variable and environment variables and functions
 
 Script 6 creates a new local variable
 
+Script 7 creates a global variable
+
 
