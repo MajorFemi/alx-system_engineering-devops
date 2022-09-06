@@ -16,4 +16,4 @@ Script 6 creates a new local variable
 
 Script 7 creates a global variable
 
-
+Script 8 prints the result of the addition of 128 with value stored in the environment variable
