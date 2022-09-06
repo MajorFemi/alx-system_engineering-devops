@@ -26,4 +26,4 @@ Script 11 converts a number from base 2 to base 10, where the number in base 2 i
 
 Script 12 is a script that prints all possible combinations of two letters except oo.
 
-
+Script 13 prints a number with two decimal places
