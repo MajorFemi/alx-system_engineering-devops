@@ -8,4 +8,6 @@ Script 2 adds specified information to the path
 
 Script 3 counts the number of directories in the Path
 
+Script 4 list environment variables
+
 
