@@ -10,4 +10,6 @@ Script 3 counts the number of directories in the Path
 
 Script 4 list environment variables
 
+Script 5 list all local variable and environment variables and functions
+
 
