@@ -30,4 +30,6 @@ Script 13 prints a number with two decimal places
 
 Script 14 converts a number from base 10 to base 16, the number base 10 is stored in the environment variable DECIMAL
 
+Script 15 encodes and decodes text using the rot13 encryption.. Assume ASCII
+
 
