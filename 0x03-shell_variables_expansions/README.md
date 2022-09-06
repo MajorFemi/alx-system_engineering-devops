@@ -22,4 +22,6 @@ Script 9 prints the result of POWER divided by DIVIDE, where POWER and DIVIDE ar
 
 Script 10 display the result of BREATH to the power LOVE, where LOVE and POWER are environment variable
 
+Script 11 converts a number from base 2 to base 10, where the number in base 2 is stored in the environment variable BINARY
+
 
