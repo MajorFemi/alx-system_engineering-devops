@@ -32,4 +32,6 @@ Script 14 converts a number from base 10 to base 16, the number base 10 is store
 
 Script 15 encodes and decodes text using the rot13 encryption.. Assume ASCII
 
+Script 16 prints every other line from the input 
+
 
