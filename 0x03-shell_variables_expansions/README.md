@@ -24,4 +24,6 @@ Script 10 display the result of BREATH to the power LOVE, where LOVE and POWER a
 
 Script 11 converts a number from base 2 to base 10, where the number in base 2 is stored in the environment variable BINARY
 
+Script 12 is a script that prints all possible combinations of two letters except oo.
+
 
