@@ -54,4 +54,7 @@ The twenty five script list all the files with a .gif extension in the current d
 
 The twenty six script decodes acrostics that use the first letter of each line.
 
- 
+The twenty seven script parses web severs log in TSV format as inoout and displays the 11 hosts or IP addresses which did the most requests; ordered by nummber of request, most active host or IP at the top.
+
+Thats the final script for this task!
+Hope you find them useful and relevant. 
