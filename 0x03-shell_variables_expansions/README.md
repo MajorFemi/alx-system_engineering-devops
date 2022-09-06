@@ -34,4 +34,8 @@ Script 15 encodes and decodes text using the rot13 encryption.. Assume ASCII
 
 Script 16 prints every other line from the input 
 
+Script 17 adds two numbers stored in the environment variables WATER and STIR and print the result. WATER is in base WATER, STIR is in base STIR., the result is in base bestchol
 
+That's all on today's task
+Hope you find this relevant and useful.
+Thanks
